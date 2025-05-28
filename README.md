@@ -2,4 +2,4 @@
 
 Graceful degradation ensures an application’s core functionality remains available even when newer features or APIs aren’t supported or fail. Service workers enable this by caching and serving fallback resources when the network or advanced browser capabilities are unavailable, allowing the app to stay functional offline or under constrained conditions.
 
-(Live Here)[https://kecohen575.github.io/Lab8_Starter/]
+[Live Here](https://kecohen575.github.io/Lab8_Starter/)
